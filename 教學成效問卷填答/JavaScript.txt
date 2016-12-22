@@ -1,20 +1,20 @@
-javascript: (function(){var strUrl = location.search;
+ï»¿javascript: (function(){var strUrl = location.search;
 	var getPara, ParaVal, str;
 	var aryPara = [];
-	if (strUrl.indexOf("?") != -1) {
-		var getSearch = strUrl.split("?");
-		getPara = getSearch[1].split("&");
+	if (strUrl.indexOf('?') != -1) {
+		var getSearch = strUrl.split('?');
+		getPara = getSearch[1].split('&');
 		
 		for (i = 0; i < getPara.length; i++) {
-			ParaVal = getPara[i].split("=");
+			ParaVal = getPara[i].split('=');
 			aryPara.push(ParaVal[0]);
 			aryPara[ParaVal[0]] = ParaVal[1];
 		}
 		console.log(aryPara);
-		console.log(aryPara["CN"]);
-		console.log(str = decodeURI(aryPara["CN"]));
+		console.log(aryPara['CN']);
+		console.log(str = decodeURI(aryPara['CN']));
 	}
-	if(str=="±MÃD»s§@¡]¢º¡^"){
+	if(str=='å°ˆé¡Œè£½ä½œï¼ˆâ…¡ï¼‰'){
 		x=document.getElementsByTagName('input');
 		var id = new Array();
 		for(i=0;i<x.length;i++){

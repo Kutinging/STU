@@ -1,4 +1,4 @@
-javascript: (function(){var strUrl = location.search;
+﻿javascript: (function(){var strUrl = location.search;
 	var getPara, ParaVal, str;
 	var aryPara = [];
 	if (strUrl.indexOf('?') != -1) {
@@ -33,14 +33,15 @@ javascript: (function(){var strUrl = location.search;
 			id[i] = x[i];
 		}
 		for(i=0;i<x.length;i++){
-			if(((x[i].id=='x14011') || (x[i].id=='x14012') || (x[i].id=='x14013') || (x[i].id=='x14002') || (x[i].id=='x14004') || (x[i].id=='x14007') || (x[i].id=='x14019') || (x[i].id=='x14020') || (x[i].id=='x14021') || (x[i].id=='x14023') || (x[i].id=='x14025') || (x[i].id=='x14026')) && x[i].value=='4'){
-				
+			var maxNum = 5;  
+			var minNum = 4;  
+			var n = Math.floor(Math.random() * (maxNum - minNum + 1)) + minNum;
+			console.log(n); 
+			
+			if(x[i].id=='x14006' && x[i].value=='1'){
 				x[i].checked = true;
 			}
-			else if(x[i].id=='x14006' && x[i].value=='1'){
-				x[i].checked = true;
-			}
-			else if(x[i].value=='5'){
+			else if(x[i].value==n){
 				x[i].checked = true;
 			}
 		}

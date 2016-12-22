@@ -1,4 +1,4 @@
-var strUrl = location.search;
+javascript: (function(){var strUrl = location.search;
 	var getPara, ParaVal, str;
 	var aryPara = [];
 	if (strUrl.indexOf("?") != -1) {
@@ -76,4 +76,4 @@ var strUrl = location.search;
 				x[i].checked = true;
 			}
 		}
-	}
+	}} )();

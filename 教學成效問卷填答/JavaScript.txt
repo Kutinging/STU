@@ -1,10 +1,4 @@
 javascript: (async function(){
-	function sleep(n) { 
-		var start=new Date().getTime(); 
-		while(true) 
-			if(new Date().getTime()-start>n) 
-		break; 
-	} 
 	/* 4~5分隨機亂數(第一到第三選項隨機亂選) */
 	var maxNum = 5;
 	var minNum = 4;

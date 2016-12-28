@@ -21,7 +21,7 @@ javascript: (async function(){
 	var newid =id.filter(function(element, index, arr){
 		return arr.indexOf(element)=== index;
 	});
-	
+	/* 判斷選項勾選 */
 	var z = 0;
 	for(i=0;i<x.length;i++){
 		if(x[i].id==newid[z] & x[i].value==grade[z]){

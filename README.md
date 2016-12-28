@@ -6,6 +6,6 @@
 <font color="red">※如何開啟:登入校務資訊系統後找到<strong>教學成效問卷填答</strong>並點<strong>在新分頁中開啟連結</strong></font>  
 > ![image](https://github.com/Kutinging/STU/blob/master/imgs/CoStuAns.png)  <br/>
 
-1-3.點選要評量的課程後直接點選書籤將自動選擇選項  
+1-3.點選要評量的課程後直接點選書籤將自動選擇選項並自動提交表單  
 <h3>2.目前選項清單</h3>  
 預設為第一個及第二個選項隨機選擇

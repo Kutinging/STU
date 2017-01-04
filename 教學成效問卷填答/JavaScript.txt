@@ -1,4 +1,4 @@
-javascript: (async function(){
+javascript: (function(){
 	/* 4~5分隨機亂數(第一到第三選項隨機亂選) */
 	var maxNum = 5;
 	var minNum = 4;

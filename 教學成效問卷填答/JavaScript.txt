@@ -29,6 +29,6 @@ javascript: (function(){
 			z++;
 		}
 	}
-	/* 自動送出表單 */
+	/* 自動送出表單，如不自動提交請移除*/
 	upsetonclick();
 } )();

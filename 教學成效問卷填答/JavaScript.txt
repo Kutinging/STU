@@ -10,7 +10,7 @@ javascript: (function(){
 	}
 	/*原始版本:插入一個分數為1在第11題(陷阱題)，陣列由0開始放置*/
 	/*2017.04.24更新:插入一個分數為5在第11題，陣列由0開始放置,學校取消原 11 題陷阱題*/
-	grade.splice(10,0,5);
+	grade.splice(10,0,1);
 	
 	x=document.getElementsByTagName('input');
 	var id = new Array();

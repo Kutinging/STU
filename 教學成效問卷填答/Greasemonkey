@@ -3,3 +3,6 @@ Get TR JSON list.
 
 Get Onclick Value.
 (document.getElementsByTagName('tr')[1].attributes)[0].vaule
+
+Get tr length
+((document.getElementsByTagName('tr')[1].attributes).length)

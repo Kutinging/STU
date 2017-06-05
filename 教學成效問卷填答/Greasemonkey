@@ -1,5 +1,5 @@
-/*擷取TR區塊HTML碼*/
-console.log((document.getElementsByTagName('tr')[1].outerHTML).indexOf(')'));
+Get TR JSON list.
+(document.getElementsByTagName('tr'));
 
-Get Onclick
+Get Onclick Value.
 (document.getElementsByTagName('tr')[1].attributes)[0].nodeValue

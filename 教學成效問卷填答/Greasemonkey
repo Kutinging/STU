@@ -2,4 +2,4 @@ Get TR JSON list.
 (document.getElementsByTagName('tr'));
 
 Get Onclick Value.
-(document.getElementsByTagName('tr')[1].attributes)[0].nodeValue
+(document.getElementsByTagName('tr')[1].attributes)[0].vaule

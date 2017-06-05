@@ -1,0 +1,2 @@
+/*擷取TR區塊HTML碼*/
+console.log((document.getElementsByTagName('tr')[1].outerHTML).indexOf(')'));

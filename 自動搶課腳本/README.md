@@ -1,4 +1,4 @@
-# STU 自動選課腳本
+# STU 自動搶課腳本 STU AutoElective
 
 ### 1.使用方法
 

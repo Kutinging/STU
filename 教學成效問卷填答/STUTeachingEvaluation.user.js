@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         STU Teaching evaluation
+// @name         STU Teaching Evaluation
 // @namespace    https://github.com/Kutinging/STU
 // @version      1.0.0
 // @description  自動將"教學成效問卷"填寫完成，此腳本將會自動將所有課程填寫完畢

@@ -1,8 +1,10 @@
 # STU 教學成效問卷填答
-[書籤工具](https://github.com/Kutinging/STU/blob/master/%E6%95%99%E5%AD%B8%E6%88%90%E6%95%88%E5%95%8F%E5%8D%B7%E5%A1%AB%E7%AD%94/JavaScript.txt "前往複製")  
+### 類型
 
-Tampermonkey腳本
+Tampermonkey腳本 <strong>極力推薦</strong>  
 https://github.com/Kutinging/STU/raw/master/%E6%95%99%E5%AD%B8%E6%88%90%E6%95%88%E5%95%8F%E5%8D%B7%E5%A1%AB%E7%AD%94/STUTeachingEvaluation.user.js
+
+書籤工具https://github.com/Kutinging/STU/blob/master/%E6%95%99%E5%AD%B8%E6%88%90%E6%95%88%E5%95%8F%E5%8D%B7%E5%A1%AB%E7%AD%94/JavaScript.txt 
 
 ### 1.使用方法(Tampermonkey腳本)
 

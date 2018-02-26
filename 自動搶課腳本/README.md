@@ -11,7 +11,7 @@
 ※如何開啟:登入校務資訊系統後找到<strong>加退選</strong>並點 滑鼠右鍵 <strong>在新分頁中開啟連結</strong>
 ![image](https://github.com/Kutinging/STU/raw/master/imgs/AutoElective.png)
 
-1-3.安裝腳本到油猴子中！https://github.com/Kutinging/STU/raw/master/%E8%87%AA%E5%8B%95%E9%81%B8%E8%AA%B2%E8%85%B3%E6%9C%AC/STUAutoElective.user.js
+1-3.安裝腳本到油猴子中！https://github.com/Kutinging/STU/raw/master/%E8%87%AA%E5%8B%95%E6%90%B6%E8%AA%B2%E8%85%B3%E6%9C%AC/STUAutoElective.user.js
 
 1-4.接著找到你要選的課程，並複製該課程之課程代碼，並到腳本中找到 STU("貼上課程代碼") 即可運作！
 
